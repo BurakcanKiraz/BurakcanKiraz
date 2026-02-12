@@ -1,4 +1,4 @@
-[![MasterHead]( https://tolustar.com/steps-to-become-a-front-end-developer/)
+![MasterHead]( https://tolustar.com/steps-to-become-a-front-end-developer/)
 <h1 align="center">Hi 👋, I'm Burakcan Kiraz</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
