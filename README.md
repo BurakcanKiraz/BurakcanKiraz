@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Burakcan%20Kiraz&fontSize=70" width="100%" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Burakcan Kiraz</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
